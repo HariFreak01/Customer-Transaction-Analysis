@@ -5,7 +5,7 @@ Analyze customer transaction data to identify spending patterns, trends, and ano
 
 # Tools Used
 - Python (Pandas, NumPy)
-- Matplotlib, Seaborn
+- Matplotlib
 
 # Key Insights
 - Identified top spending categories
